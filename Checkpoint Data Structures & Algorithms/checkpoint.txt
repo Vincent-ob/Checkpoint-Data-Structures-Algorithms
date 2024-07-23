@@ -1,0 +1,15 @@
+Data Structures
+
+	1.	Trie
+	2.	Segment Tree
+	3.	Fenwick Tree (Binary Indexed Tree)
+	4.	B-Trees and B+ Trees
+	5.	Skip Lists
+
+Sorting Algorithms
+
+	1.	Radix Sort
+    2.	Bucket Sort
+	3.	Counting Sort
+	4.	Shell Sort
+	5.	Pigeonhole Sort
